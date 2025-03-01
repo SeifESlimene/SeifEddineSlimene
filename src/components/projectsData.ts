@@ -97,11 +97,8 @@ export const projects: Project[] = [
     githubLink: 'https://github.com/SeifESlimene/webshop',
     duration: '4 Months',
     achievements: [
-      'User authentication with sign-up and login functionality.',
-      'Ability to log and track workouts with detailed data (sets, reps, weight).',
-      'View workout history and track progress over time.',
-      'User-friendly interface for easy workout management.',
-      'Data stored securely.',
+      '•Key user features: Homepage, multi-level categories, product details, account functions (login/registration, profile, order/review history), search, cart, checkout, address management, and recent visit tracking',
+      'Admin features: Admin login, Admin Center, management of users, categories (with tree structure), products (specifications and management), orders, reviews, and content (sliders and banners).',
     ],
     longer_description:
       'WebShop is An open-source e-commerce platform with distinct user and admin interfaces.',
