@@ -28,7 +28,7 @@ export default function Hero() {
             <a
               href='cv/CV_Seif_Eddine_Slimene.pdf'
               download
-              className='relative z-10 px-6 py-3 border-2 border-blue-600 text-white dark:text-purple-400 rounded-lg dark:hover:bg-purple-900/20 transition-colors'
+              className='relative z-10 px-6 py-3 border-2 border-blue-600 text-white rounded-lg dark:hover:bg-purple-900/20 transition-colors'
             >
               Download CV
             </a>
