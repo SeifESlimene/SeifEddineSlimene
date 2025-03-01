@@ -28,7 +28,7 @@ export default function Hero() {
             <a
               href="cv/CV_Seif_Eddine_Slimene.pdf"
               download
-              className="relative z-10 px-6 py-3 border-2 border-blue-600 text-white dark:text-purple-400 rounded-lg hover:bg-purple-50 dark:hover:bg-purple-900/20 transition-colors"
+              className="relative z-10 px-6 py-3 border-2 border-blue-600 text-white dark:text-purple-400 rounded-lg dark:hover:bg-purple-900/20 transition-colors"
             >
               Download CV
             </a>
@@ -66,7 +66,7 @@ export default function Hero() {
           <div className="relative">
             <div className="relative z-10 w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
               <img
-                src="images/55554.jpg"
+                src="images/my_photo.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
