@@ -1,5 +1,5 @@
 // Define project types and mock data
-export type ProjectCategory = 'All' | 'Websites' | 'Applications' | 'Mobile';
+export type ProjectCategory = 'All' | 'Websites' | 'Mobile';
 
 export interface Project {
   title: string;

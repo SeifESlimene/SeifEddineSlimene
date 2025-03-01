@@ -1,8 +1,3 @@
-import { ProjectCategory } from "./projectsData";
+import { ProjectCategory } from './projectsData';
 
-export const categories: ProjectCategory[] = [
-  "All",
-  "Websites",
-  // "Applications",
-  "Mobile",
-];
+export const categories: ProjectCategory[] = ['All', 'Websites', 'Mobile'];
