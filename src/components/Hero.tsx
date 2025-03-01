@@ -53,7 +53,7 @@ export default function Hero() {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="cv/CV_Mohamed_Amine_Chakroun.pdf"
+              href="cv/CV_Seif_Eddine_Slimene.pdf"
               download
               className="social-link"
               title={"Download CV"}
